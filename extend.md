@@ -54,7 +54,7 @@
               <a class="col-md-3" href="{{ site.conformance_step2_url }}"><button type="button" class="btn btn-primary btn-lg btn-block" style="white-space: break-spaces">2) Complete test evaluation guide</button></a>
             </div>
             <div class="col-md text-center">
-              <a class="col-md-3" href="form.html"><button type="button" class="btn btn-primary btn-lg btn-block" style="white-space: break-spaces">3) Submit the participation form</button></a>
+              <a class="col-md-3" href="https://account-d.docusign.com/oauth/auth?response_type=token&scope=signature&client_id=6fae2312-7c3f-454a-969b-490247d8f80e&redirect_uri=https://muzikovam.github.io/zowe.github.io/form.html"><button type="button" class="btn btn-primary btn-lg btn-block" style="white-space: break-spaces">3) Submit the participation form</button></a>
             </div>
          </div>
        </div>
