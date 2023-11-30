@@ -54,7 +54,7 @@
               <a class="col-md-3" href="{{ site.conformance_step2_url }}"><button type="button" class="btn btn-primary btn-lg btn-block" style="white-space: break-spaces">2) Complete test evaluation guide</button></a>
             </div>
             <div class="col-md text-center">
-              <a class="col-md-3" href="{{ site.conformance_step3_url }}"><button type="button" class="btn btn-primary btn-lg btn-block" style="white-space: break-spaces">3) Submit the participation form</button></a>
+              <a class="col-md-3" href="form.html"><button type="button" class="btn btn-primary btn-lg btn-block" style="white-space: break-spaces">3) Submit the participation form</button></a>
             </div>
          </div>
        </div>
